@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d9b0bde-ae1b-447b-82d6-fa54e4c4a950" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernatecfg" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VdpUxB9HuAXnk5LqkWXj1ZCuY8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;hive" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/ir/mctab/java32" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shahab" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ir.mctab.java32.services.usermanagement" />
+      <recent name="ir.mctab.java32.services.articlemanagement" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mctab.java32.App" />
+      <module name="Articlemanaging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mctab.java32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d9b0bde-ae1b-447b-82d6-fa54e4c4a950" name="Default Changelist" comment="" />
+      <created>1577592845897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577592845897</updated>
+      <workItem from="1577592847894" duration="4536000" />
+      <workItem from="1577653913439" duration="17594000" />
+      <workItem from="1577782477420" duration="15605000" />
+      <workItem from="1577879409134" duration="11079000" />
+      <workItem from="1577906322039" duration="32000" />
+      <workItem from="1577947347868" duration="440000" />
+      <workItem from="1577948348608" duration="599000" />
+      <workItem from="1577956400002" duration="411000" />
+      <workItem from="1578049498881" duration="3873000" />
+      <workItem from="1578123389671" duration="128000" />
+      <workItem from="1578123615547" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="40" key="#Assign_Data_Sources" timestamp="1577595501787">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="243" y="40" key="#Assign_Data_Sources/0.0.1304.768@0.0.1304.768" timestamp="1577595501787" />
+    <state x="243" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578050558972">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="243" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768@0.0.1304.768" timestamp="1578050558972" />
+    <state x="782" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1577782906151">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="782" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1577782906151" />
+    <state width="860" height="187" key="GridCell.Tab.0.bottom" timestamp="1577947366292">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="860" height="187" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1577947366292" />
+    <state width="860" height="187" key="GridCell.Tab.0.center" timestamp="1577947366292">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="860" height="187" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1577947366292" />
+    <state width="860" height="187" key="GridCell.Tab.0.left" timestamp="1577947366292">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="860" height="187" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1577947366292" />
+    <state width="860" height="187" key="GridCell.Tab.0.right" timestamp="1577947366292">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="860" height="187" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1577947366292" />
+    <state width="1258" height="336" key="GridCell.Tab.1.bottom" timestamp="1577894793261">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1258" height="336" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1577894793261" />
+    <state width="1258" height="336" key="GridCell.Tab.1.center" timestamp="1577894793261">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1258" height="336" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1577894793261" />
+    <state width="1258" height="336" key="GridCell.Tab.1.left" timestamp="1577894793261">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1258" height="336" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1577894793261" />
+    <state width="1258" height="336" key="GridCell.Tab.1.right" timestamp="1577894793261">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1258" height="336" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1577894793261" />
+    <state width="237" height="463" key="HiddenNamespacesPopup" timestamp="1578050574322">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="237" height="463" key="HiddenNamespacesPopup/0.0.1304.768@0.0.1304.768" timestamp="1578050574322" />
+    <state x="181" y="37" key="Maven.ArtifactSearchDialog" timestamp="1577594314139">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="181" y="37" key="Maven.ArtifactSearchDialog/0.0.1304.768@0.0.1304.768" timestamp="1577594314139" />
+    <state x="467" y="160" key="chooseDestDirectoryDialog" timestamp="1577594129325">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="467" y="160" key="chooseDestDirectoryDialog/0.0.1304.768@0.0.1304.768" timestamp="1577594129325" />
+    <state x="509" y="279" width="328" height="237" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1577662711296">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="509" y="279" width="328" height="237" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1304.768@0.0.1304.768" timestamp="1577662711296" />
+    <state x="346" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1578123636124">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="346" y="205" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1578123636124" />
+    <state x="707" y="138" width="542" height="493" key="extract.method.dialog" timestamp="1577792015882">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="707" y="138" width="542" height="493" key="extract.method.dialog/0.0.1304.768@0.0.1304.768" timestamp="1577792015882" />
+  </component>
+</project>
